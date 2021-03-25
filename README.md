@@ -8,5 +8,19 @@ Our Web app performs information collection, diagnosis, treatment.
 
 Implementation:
 
+Login Page:
+![alt text](https://github.com/M-Akhil-pavan-sai/FitnessGuide/blob/master/LoginScreenshot.png?raw=true)
 Home Page:
 ![alt text](https://github.com/M-Akhil-pavan-sai/FitnessGuide/blob/master/HomePageScreenshot.png?raw=true)
+
+BMI Page:
+![alt text](https://github.com/M-Akhil-pavan-sai/FitnessGuide/blob/master/BMIScreenshot.png?raw=true)
+
+Profile & Analysis Page:
+![alt text](https://github.com/M-Akhil-pavan-sai/FitnessGuide/blob/master/ProfileAndAnalysisScreenshot.png?raw=true)
+
+Workouts & Programs Page:
+![alt text](https://github.com/M-Akhil-pavan-sai/FitnessGuide/blob/master/WorkoutsScreenshot.png?raw=true)
+
+Diet Page:
+![alt text](https://github.com/M-Akhil-pavan-sai/FitnessGuide/blob/master/DietScreenshot.png?raw=true)
