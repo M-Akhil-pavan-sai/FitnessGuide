@@ -9,4 +9,4 @@ Our Web app performs information collection, diagnosis, treatment.
 Implementation:
 
 Home Page:
-![alt text](https://github.com/M-Akhil-pavan-sai/SimpleCalculatorApplication/blob/master/HomePageScreenshot.png?raw=true)
+![alt text](https://github.com/M-Akhil-pavan-sai/FitnessGuide/blob/master/HomePageScreenshot.png?raw=true)
