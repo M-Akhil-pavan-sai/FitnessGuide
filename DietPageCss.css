@@ -1,0 +1,61 @@
+body {
+	margin: 20px;
+    padding: 20px;
+    width: 100%;
+
+}
+h1{
+	text-align:center;
+	text-transform:uppercase;
+	margin:2%;
+}
+h2{
+	color: #fff;
+    background-color: #8eb03b;
+    height: 50px;
+    font-weight: 100;
+    padding-left: 5px;
+    padding-top: 2px;
+    border-radius: 5px;
+    margin-bottom: 1%;
+}
+.para{
+	
+	display:inline-block;
+	float:left;
+	margin:2%;
+}
+.para1{
+	
+	*display:inline;
+	zoom:1;
+	float:left;
+	margin:2%;
+}
+
+#NBMI img{
+	margin:1%;
+	width:60%;		
+}
+table{
+	margin: 1%;
+    	border-collapse: separate;
+    	border-spacing: 2px;
+}
+th{
+	background-color: #0d6efd4f;
+    	color: #871e19fa;
+	text-align: center;
+}
+td{
+	 background-color:#c0ffc4f5;	
+}
+tr:nth-child(2){
+	text-align:center;	
+}
+section{
+	margin:15px 15px;
+}
+#DT{
+	display:none;
+}
